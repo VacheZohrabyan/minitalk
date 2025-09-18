@@ -25,7 +25,10 @@ After compilation, you will have two executables:
 
 server
 
+---
 client
+
+---
 
 🚀 Usage
 Start the server:
